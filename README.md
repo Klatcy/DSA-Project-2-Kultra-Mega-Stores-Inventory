@@ -1,6 +1,6 @@
 ---
 
-# 📊 DSA_ProjectJune2025
+# 📊 DSA_Project_June_2025
 
 ## Project Title: **Business Intelligence Analysis for Kultra Mega Stores (KMS)**
 
@@ -129,15 +129,7 @@ FROM [dbo].[KMS New]
 GROUP BY Customer_Name
 ORDER BY Total_Sales ASC
 
-Advice:
 
-Analyze customer behavior, including purchase history, shipping mode, product type, and discounts.
-
-Offer personalized promotions tailored to each customer's preferences.
-
-Collect feedback to understand their needs and preferences.
-
-Bundle complementary products to add extra value.
 
 
 
@@ -274,24 +266,16 @@ Improve last-mile delivery operations
 
 
 
-
-
 ---
+Advice:
 
-📊 Data Visualisation
+Analyze customer behavior, including purchase history, shipping mode, product type, and discounts.
 
-(Optional — if done in Excel, Power BI or Tableau)
+Offer personalized promotions tailored to each customer's preferences.
 
-Bar chart of sales by region
+Collect feedback to understand their needs and preferences.
 
-Pie chart of shipping mode cost distribution
-
-Heatmap of sales by customer segment
-
-Line chart of shipping delay by order priority
-
-
-
+Bundle complementary products to add extra value.
 ---
 
 ✅ Conclusion
@@ -317,7 +301,7 @@ Increased operational costs and customer dissatisfaction
 
 ---
 
-💡 Recommendations
+💡 #### Recommendations
 
 1. Customer Strategy
 
@@ -368,7 +352,5 @@ DSA Data Analysis Project | July 2025
 
 ---
 
-✅ Simply copy this and paste it into your `README.md` file on GitHub.
 
-Let me know if you want a downloadable `.md` file or DOCX version too!
 
