@@ -61,7 +61,7 @@ Key columns in the dataset:
 
 - **SQL Server Management Studio (SSMS)**
 - **Microsoft Excel (for preprocessing)**
-- **Power BI / Tableau (optional for visualization)**
+
 
 ---
 
@@ -128,7 +128,6 @@ SELECT TOP 10 Customer_Name, SUM(Sales) AS Total_Sales
 FROM [dbo].[KMS New]
 GROUP BY Customer_Name
 ORDER BY Total_Sales ASC
-
 
 
 
